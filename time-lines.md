@@ -16,3 +16,5 @@ This repository documents my journey to learn Python, starting with the basics a
 - [x] [Def keyword](https://www.geeksforgeeks.org/python-def-keyword/)
 - [x] [Return Statements](https://www.geeksforgeeks.org/python-return-statement/)
 - [x] [Recursive](https://www.geeksforgeeks.org/recursion-in-python/)
+
+- [x] [Decorators](https://www.geeksforgeeks.org/decorators-in-python/)
